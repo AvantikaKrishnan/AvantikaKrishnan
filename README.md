@@ -1,6 +1,6 @@
 # Hello Everyone 🤗
 
-## A few general details about me 🙌
+## A few details about me 🙌
 My name is Avantika Krishnan.
 <br>
 Studied from Modern High School for girls, Kolkata.
