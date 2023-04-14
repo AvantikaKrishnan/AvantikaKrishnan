@@ -23,7 +23,7 @@ Experience in Content Writing
 
 <br>
 
-## I do have a few qualities like 🪶
+## Some of my other qualities include 🪶
 Enjoy Leadership roles.
 <br>
 Great with Team-Work exercises.
