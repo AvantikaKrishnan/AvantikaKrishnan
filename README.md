@@ -1,5 +1,7 @@
 # Hello Everyone 🤗
 
+<br>
+
 ## A few details about me 🙌
 My name is Avantika Krishnan.
 <br>
@@ -8,7 +10,6 @@ Studied from Modern High School for girls, Kolkata.
 A soon to be graduate from **VIT Bhopal University.**
 <br>
 
-<br>
 
 ## Some of my Skills are as follows 👩🏽‍💻
 Fluent programming in Java language.
