@@ -1,7 +1,7 @@
 # Hello Everyone 🤗
 
 ## A few general details about me 🙌
-### My name is Avantika Krishnan
+My name is Avantika Krishnan
 ### Studied from Modern High School for girls, Kolkata.
 ### A soon to be graduate from **VIT Bhopal University.**
 
