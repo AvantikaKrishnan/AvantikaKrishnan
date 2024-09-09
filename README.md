@@ -15,7 +15,7 @@ Fluent programming in Java language.
 <br>
 Familiar with Python, and C++.
 <br>
-Honing my skills in flutter and Dart.
+Honing my skills in development.
 <br>
 Cybersecurity Student.
 <br>
